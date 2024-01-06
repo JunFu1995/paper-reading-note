@@ -2,6 +2,7 @@
 
 ### Q1: softmax函数中$\sqrt{d}$的作用？
 
+[softmax 求导](https://www.zhihu.com/tardis/zm/art/105758059?source_id=1003)
 
 ### Q2: 多头注意力机制的用处和实现？
 
