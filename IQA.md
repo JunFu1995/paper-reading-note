@@ -2,6 +2,7 @@
 
 ### CVPR2024 
 [NTIRE 2024 Quality Assessment of AI-Generated Content Challenge](https://arxiv.org/pdf/2404.16687)
+
 [Blind Image Quality Assessment Based on Geometric Order Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Shin_Blind_Image_Quality_Assessment_Based_on_Geometric_Order_Learning_CVPR_2024_paper.pdf)
 
 [Defense Against Adversarial Attacks on No-Reference Image Quality Models with Gradient Norm Regularization](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Liu_Defense_Against_Adversarial_CVPR_2024_supplemental.pdf)
