@@ -1,6 +1,7 @@
 # paper on image quality assessment 
 
 ### CVPR2024 
+[GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_GPT-4Vision_is_a_Human-Aligned_Evaluator_for_Text-to-3D_Generation_CVPR_2024_paper.pdf)
 [NTIRE 2024 Quality Assessment of AI-Generated Content Challenge](https://arxiv.org/pdf/2404.16687)
 
 [Blind Image Quality Assessment Based on Geometric Order Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Shin_Blind_Image_Quality_Assessment_Based_on_Geometric_Order_Learning_CVPR_2024_paper.pdf)
